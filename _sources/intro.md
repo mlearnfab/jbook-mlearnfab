@@ -4,7 +4,7 @@
 
 Unlike most offerings, the course combines self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you computation skills and the power of abstract thinking, not simply coding. The course was especially designed for those interested in Data Science and Machine Learning careers.
 
-## <font color="maroon">Fall 2022 Schedule</font>
+## <font color="maroon">2023 Schedule</font>
 
 Machine Learning, Level I is a 7 week course. It begins in October 2022.  
 
