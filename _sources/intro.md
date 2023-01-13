@@ -4,41 +4,17 @@
 
 Unlike most offerings, the course combines self-paced material with live interactive sessions. The course design is based on principles of active learning. Our goal is to teach you computation skills and the power of abstract thinking, not simply coding. The course was especially designed for those interested in Data Science and Machine Learning careers.
 
-## <font color="maroon">2023 Schedule</font>
+## <font color="maroon">2023 Courses</font>
 
-Machine Learning, Level I is a 7 week course. It begins in October 2022.  
-
-
-- **Getting Started, What is Machine Learning** Thu, Oct6, 8:00 PM EDT. 
-- **Simple Linear Regression** Thu, Oct13, 8:00 PM EDT
-- **K-Nearest Neighbors** Thu, Oct20, 8:00 PM EDT
-- **Multiple Linear Regression** Thu, Oct27, 8:00 PM EDT
-- **Model Evaluation - Regression** Thu, Nov3, 8:00 PM EDT
-- **Model Evaluation - Classification** Thu, Nov10, 8:00 PM EDT
-- **Bias Variance Tradeoff** Thu, Nov7, 8:00 PM EDT
+The following courses are currently being offered. Please see corresponding web page for specific course information, including curriculum.
 
 
+
+
+## <font color="maroon">Schedule</font>
+
+All sessions are online and hosted in Zoom. The most current session schedule is posted in the Meetup: Machine Learning for Absolute Beginners. The schedule can also be found on the schedule page. Please be sure to join the Meetup group for news and the most up-to-date schedule.
 
 ## <font color="maroon">Registration</font>
 
-Registration for the course will begin on Thursday, September 15th and close on Friday, October 14th. Registration is free, but you will have to commit to a) logging in to the Moodle course site at least once a week; b) spending at least 30 minutes per week on the course. 
-
-To register for the course:
-
-- Create a login at the [Moodle website](https://mlfab.moodlecloud.com). Click the button "Create New Account."
-- After you have created a new account, email mlearnfab@gmail.com that you wish to register for Machine Learning for Absolute Beginners.
-
-
-
-
-## <font color="maroon">Course Web Site (Moodle)</font>
-
-
-Approximately 24 hours after registration, you will receive access to the Moodle course web site. The course web site will contain all the instructional resources you will need for the course. If you are having difficulty, please email: mlearnfab@gmail.com.
-
-
-## <font color="maroon">Course Web Site (Moodle)</font>
-
-You can register for online interactive events at the [Meetup Web Page](https://www.meetup.com/mlearnfab/).
-
-
+If you are interested in attending any of the sessions, you must register by creating an account in our Moodle Learning Management Systems. Registration instructions can be found the registration page.
