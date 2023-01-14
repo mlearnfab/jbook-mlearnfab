@@ -20,10 +20,3 @@
 | Feb 28th | Tue   |8:00 pm EST | 60 mins  |<font color ="blue">**Basic ML: Level II**</font> - Session 2                     |
 
 
-## March
-
-
-| Date     | Day   |     Time   | Duration | Session Title                                           |
-|----------|-------|------------|----------|---------------------------------------------------------|                    |
-| Mar 7th  | Tue   |8:00 pm EST | 60 mins  |<font color="red">**Basic ML: Level III**</font> - Session 1                     |
-| Mar 14th | Thu   |8:00 pm EST | 60 mins  |<font color="red">**Basic ML: Level III**</font> - Session 2                     |
