@@ -1,7 +1,7 @@
 (page-bmltwo)=
-# <font color="maroon">Basic Machine Learning, Level I</font> 
+# <font color="maroon">Basic Machine Learning, Level II</font> 
 
-Basic Machine Learning, Level I is a free two-week hands-on course consisting of two sessions. You will also have access to instructional resources in a learning management system.
+Basic Machine Learning, Level II is a free two-week hands-on course consisting of two sessions. You will also have access to instructional resources in a learning management system.
 
 **Session 1:**
 
