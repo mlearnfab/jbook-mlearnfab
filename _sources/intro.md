@@ -8,7 +8,7 @@ Unlike most offerings, the course combines self-paced material with live interac
 
 The following courses are currently being offered. Please see corresponding web page for specific course information, including curriculum.
 
-- [Professional Development Environment](page-prodevevn)
+- [Professional Development Environment](page-prodevenv)
 
 - [Basic Machine Learning, Level 1](page-bmlone)
 
@@ -23,4 +23,4 @@ All sessions are online and hosted in Zoom. The most current session schedule is
 
 ## <font color="maroon">Registration</font>
 
-If you are interested in attending any of the sessions, you must register by creating an account in our Moodle Learning Management Systems. Registration instructions can be found the registration page.
+If you are interested in attending any of the sessions, you must register by creating an account in our Moodle Learning Management Systems. Registration instructions can be found the [registration](pro-registration) page.
